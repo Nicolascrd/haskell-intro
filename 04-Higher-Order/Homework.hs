@@ -1,5 +1,7 @@
 {-# OPTIONS_GHC -Wall #-}
 
+{- HLINT ignore "Use map" -}
+
 -- EX 1
 
 fun1 :: [Integer] -> Integer
